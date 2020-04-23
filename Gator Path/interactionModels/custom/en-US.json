@@ -1,0 +1,152 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "gator path",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": [
+            "cancel"
+          ]
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": [
+            "help"
+          ]
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": [
+            "quit"
+          ]
+        },
+        {
+          "name": "HelloWorldIntent",
+          "slots": [],
+          "samples": [
+            "hello"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": [
+            "home"
+          ]
+        },
+        {
+          "name": "ThirteenthStreetIntent",
+          "slots": [],
+          "samples": [
+            "Go to Thirteenth Street ",
+            "Walk down Thirteenth",
+            "Walk down Thirteenth Street",
+            "Go Thirteenth",
+            "Go Thirteenth Street",
+            "Go down Thirteenth",
+            "Go down Thirteenth Street",
+            "Thirteenth",
+            "Thirteenth Street"
+          ]
+        },
+        {
+          "name": "UniversityAvenueIntent",
+          "slots": [],
+          "samples": [
+            "Walk down University Avenue",
+            "Walk down University",
+            "University Ave",
+            "University",
+            "University Avenue"
+          ]
+        },
+        {
+          "name": "HighFiveIntent",
+          "slots": [],
+          "samples": [
+            "Give Dennis a high five",
+            "High five Dennis",
+            "give him a high five",
+            "High Five"
+          ]
+        },
+        {
+          "name": "RunPastIntent",
+          "slots": [],
+          "samples": [
+            "run from him",
+            "run",
+            "run away",
+            "Run Past"
+          ]
+        },
+        {
+          "name": "HelpUpIntent",
+          "slots": [],
+          "samples": [
+            "help the knight up",
+            "help knight",
+            "help knight up",
+            "help him up",
+            "Help Up"
+          ]
+        },
+        {
+          "name": "KeepRunningIntent",
+          "slots": [],
+          "samples": [
+            "Conintue to run",
+            "Keep going",
+            "Keep on running",
+            "Keep Running"
+          ]
+        },
+        {
+          "name": "StartOverIntent",
+          "slots": [],
+          "samples": [
+            "Restart",
+            "start again",
+            "Start Over"
+          ]
+        },
+        {
+          "name": "PointIntent",
+          "slots": [],
+          "samples": [
+            "direct the alligator where to go",
+            "point to stadium",
+            "point at the stadium",
+            "point to it",
+            "point where the stadium is",
+            "Point to the stadium",
+            "Point"
+          ]
+        },
+        {
+          "name": "WalkIntent",
+          "slots": [],
+          "samples": [
+            "walk to the stadium",
+            "walk together",
+            "Walk with him",
+            "Walk him there",
+            "Walk him",
+            "Walk"
+          ]
+        },
+        {
+          "name": "WhereAmIIntent",
+          "slots": [],
+          "samples": [
+            "What part am I at",
+            "what place am i",
+            "Where Am I"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "19"
+}
